@@ -1,0 +1,3 @@
+ASD - 2
+MANA - 1
+LIGHT - 3
